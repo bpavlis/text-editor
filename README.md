@@ -4,7 +4,7 @@
 Created a Text Editor application to create notes/code snippets regardless of internet connectivity status. This project is using JS and npm: express, concurrently, and nodemon.
 
 ## Final Screenshot
-![final screenshot](./Assets/unit19finalscreenshot.png)
+![final screenshot](./assets/unit19finalscreenshot.png)
 
 ## Links
 [GitHub](https://github.com/bpavlis/text-editor)
