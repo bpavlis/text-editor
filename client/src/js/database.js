@@ -50,7 +50,7 @@ export const getDb = async () => {
   const storeVar = tAction.objectStore(DB_NAME);
 
   // Leave the rest as-is
-  const request = store.get(1);
+  const request = storeVar.get(1);
   const result = await request;
   result
     ? console.log('🚀 - data retrieved from the database', result.value)
